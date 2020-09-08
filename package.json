@@ -4,7 +4,7 @@
   "description": "Navegador flutuante com ElectronJS",
   "main": "main.js",
   "scripts": {
-    "sart": "electron ."
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
