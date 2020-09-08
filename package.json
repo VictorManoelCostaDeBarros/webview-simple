@@ -1,0 +1,20 @@
+{
+  "name": "webview-simple",
+  "version": "1.0.0",
+  "description": "Navegador flutuante com ElectronJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorManoelCostaDeBarros/webview-simple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorManoelCostaDeBarros/webview-simple/issues"
+  },
+  "homepage": "https://github.com/VictorManoelCostaDeBarros/webview-simple#readme"
+}
